@@ -19,7 +19,7 @@
 
 #### Пример результата работы стиля при оформлении библиографии:
 <div id="header" align="left">
-  <img src="https://github.com/EvoletSpess/Zotero_style_for_Medical_Genetics_Journal_Russia/blob/main/data/homeHeaderTitleImage_ru_RU.jpg"/>
+  <img src="https://github.com/EvoletSpess/Zotero_style_for_Medical_Genetics_Journal_Russia/blob/main/data/Example bibliography.png"/>
 </div>
 
 #### Чего этот стиль НЕ делает?
