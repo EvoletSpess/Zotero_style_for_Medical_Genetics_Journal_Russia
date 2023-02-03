@@ -1,6 +1,6 @@
 # Стиль Zotero для журнала "Медицинская генетика"
 <div id="header" align="center">
-<a href="https://www.scimagojr.com/journalsearch.php?q=19021&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=19021" alt="SCImago Journal &amp; Country Rank"  /></a>
+  <img src="https://github.com/EvoletSpess/Zotero_style_for_Medical_Genetics_Journal_Russia/blob/main/data/homeHeaderTitleImage_ru_RU.jpg"/>
 </div>
 
 #### Что в этом репозитории?
@@ -19,7 +19,7 @@
 
 #### Пример результата работы стиля при оформлении библиографии:
 <div id="header" align="left">
-  <img src="https://github.com/LyonyaZhozhikov/Zotero_style_for_Russian_Journal_of_Genetics/blob/main/data/example_word.bmp" width="600"/>
+  <img src="https://github.com/EvoletSpess/Zotero_style_for_Medical_Genetics_Journal_Russia/blob/main/data/homeHeaderTitleImage_ru_RU.jpg"/>
 </div>
 
 #### Чего этот стиль НЕ делает?
